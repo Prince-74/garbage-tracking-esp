@@ -3,8 +3,8 @@
 #include <HTTPClient.h>
 #include <HardwareSerial.h>
 
-const char* ssid = "Redmi 12 5G";           // Replace with your Wi-Fi SSID
-const char* password = "74171936";   // Replace with your Wi-Fi Password
+const char* ssid = "xxxxx";           // Replace with your Wi-Fi SSID
+const char* password = "xxxx";   // Replace with your Wi-Fi Password
 
 TinyGPSPlus gps;
 HardwareSerial gpsSerial(1);
